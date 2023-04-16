@@ -7,8 +7,7 @@
 - ### ComObject
 	- [EnumInstalledApps](src/ComObject/EnumInstalledApps.ahk) (Gets general information about an application.)
 
-
-- ### FileObject
+ 
 	- [FileCountLines](src/FileObject/FileCountLines.ahk) (Count the number of lines in a text file.)
 	- [FileFindString](src/FileObject/FileFindString.ahk) (Finds a specific word / string in a text file.)
 	- [FileReadLastLines](src/FileObject/FileReadLastLines.ahk) (Read last x lines of a text file.)
